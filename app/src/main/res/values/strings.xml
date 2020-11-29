@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Schedule Reminder Kelompok 6</string>
+    <string name="title_activity_add">Tambah Jadwal</string>
+    <string name="title_activity_update">Update Jadwal</string>
+    <string name="title_activity_detail">List Jadwal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Jadwal</string>
+    <string name="title_notifications">Setting</string>
+
+    <string name="title_menu_delete">Delete</string>
+    <string name="title_menu_save">Save</string>
+
+    <string name="notification_title">Jangan Lupa Ada Acara loh hari ini!</string>
+
+    <array name="hari">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </array>
+
+    <array name="kelompok6">
+        <item>Ilham Bagus Bahrudin 18532939</item>
+        <item>Moh. Ridho Abdul Hakim 18532935</item>
+        <item>Kurniawan Yuwono Putra 18532932</item>
+    </array>
+
+</resources>
